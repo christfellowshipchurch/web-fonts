@@ -1,0 +1,9 @@
+@import './gotham/gotham.font.css';
+
+.GothamHTF {
+    font-family: 'GothamHTF' !important;
+}
+
+.GothamCondensed {
+    font-family: 'GothamCondensed' !important;
+}
